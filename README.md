@@ -1,5 +1,4 @@
 # DrumDazzle
-# DrumDazzle
 
 DrumDazzle is an interactive web-based drum kit built using HTML, CSS, and JavaScript. It allows users to play different drum sounds by clicking on buttons or pressing the corresponding keys on their keyboard. The project provides a fun and engaging way to simulate a drum set right in the browser.
 
